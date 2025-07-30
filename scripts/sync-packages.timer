@@ -1,0 +1,10 @@
+[Unit]
+Description=Run sync-packages.sh every 30 minutes
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=30min
+Unit=sync-packages.service
+
+[Install]
+WantedBy=timers.target

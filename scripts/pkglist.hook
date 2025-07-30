@@ -1,0 +1,11 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Package
+Target = *
+
+[Action]
+Description = Updating package list in git repository...
+When = PostTransaction
+Exec = /usr/local/bin/update-pkglist.sh

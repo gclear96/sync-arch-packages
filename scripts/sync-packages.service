@@ -1,0 +1,6 @@
+[Unit]
+Description=Sync Arch packages from Git repository
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/sync-packages.sh
