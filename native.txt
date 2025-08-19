@@ -6,6 +6,8 @@ alsa-ucm-conf
 alsa-utils
 amd-ucode
 android-tools
+ansible
+ansible-core
 arch-install-scripts
 archinstall
 aylurs-gtk-shell-git
@@ -214,6 +216,7 @@ nss
 ntfs-3g
 numactl
 nvme-cli
+nwg-look
 oath-toolkit
 obsidian
 open-iscsi
@@ -235,6 +238,7 @@ pcre
 pcsclite
 perl
 pigz
+pipewire-pulse
 pixz
 pkcs11-helper
 polkit
@@ -277,6 +281,7 @@ qt5-wayland
 refind
 reflector
 rofi-wayland
+rose-pine-cursor
 rp-pppoe
 rpcbind
 rsync
@@ -303,12 +308,14 @@ tcl
 tcpdump
 telegram-desktop
 terminus-font
+terraform
 testdisk
 thin-provisioning-tools
 tmux
 tpm2-tools
 ttf-firacode-nerd
 udftools
+ufw
 unzip
 uriparser
 usb_modeswitch
