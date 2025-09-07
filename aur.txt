@@ -43,6 +43,7 @@ libastal-wireplumber-git-debug
 libcava
 libcava-debug
 python-telegram-text
+rofi-wayland
 rose-pine-cursor
 visual-studio-code-bin
 walker-bin

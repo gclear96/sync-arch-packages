@@ -10,6 +10,13 @@ ansible
 ansible-core
 arch-install-scripts
 archinstall
+arm-none-eabi-binutils
+arm-none-eabi-gcc
+arm-none-eabi-newlib
+avr-binutils
+avr-gcc
+avr-libc
+avrdude
 aylurs-gtk-shell-git
 b43-fwcutter
 base
@@ -26,6 +33,7 @@ brltty
 broadcom-wl
 btop
 btrfs-progs
+caligula
 ccid
 chromium
 cifs-utils
@@ -35,6 +43,8 @@ cloud-init
 darkhttpd
 db5.3
 ddrescue
+dfu-programmer
+dfu-util
 dhcpcd
 ding-libs
 discord
@@ -45,12 +55,14 @@ dnssec-anchors
 dosfstools
 drbl
 duktape
+dysk
 easyeffects
 ecryptfs-utils
 edk2-shell
 efibootmgr
 efivar
 ell
+emacs
 espeak-ng
 espeakup
 ethtool
@@ -99,6 +111,7 @@ hyprland
 hyprlock
 hyprpaper
 hyprpicker
+intel-media-driver
 intel-ucode
 irssi
 iw
@@ -199,8 +212,10 @@ mpg123
 mtools
 nano
 nbd
+ncdu
 ncspot
 ndisc6
+nemo
 neovim
 network-manager-applet
 nfs-utils
@@ -263,6 +278,8 @@ python-jsonschema-specifications
 python-markupsafe
 python-netifaces
 python-oauthlib
+python-pip
+python-pipx
 python-poetry
 python-pycparser
 python-pydantic
@@ -278,8 +295,12 @@ python-urllib3
 python-yaml
 qemu-guest-agent
 qt5-wayland
+qutebrowser
 refind
 reflector
+riscv64-elf-binutils
+riscv64-elf-gcc
+riscv64-elf-newlib
 rofi-wayland
 rose-pine-cursor
 rp-pppoe
@@ -351,4 +372,5 @@ xxhash
 yay-bin
 yay-bin-debug
 yazi
+zip
 zsh
